@@ -1,4 +1,6 @@
-![Deaths-bot](https://media.discordapp.net/attachments/751207180707037265/751225002946461786/Untitled.png)
+Click [here](https://ryansprogramming.tech/Private-Policy.html) to view the bots private policy!!
+
+
 
 Invite: https://discord.com/api/oauth2/authorize?client_id=712491846256820315&permissions=1345449302&redirect_uri=https%3A%2F%2FKindWhimsicalCompilerbug.ryanhindman6654.repl.co&scope=bot
 
